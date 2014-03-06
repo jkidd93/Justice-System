@@ -1,0 +1,1534 @@
+Script started on Sat Dec 14 00:37:22 2013
+[?1034hbash-3.2$ exit./codeg++ *.cpp -o code
+bash-3.2$ ./code
+Enter name of file to read from: gunarrests.csv
+Enter Judge Name
+Tom
+Created first judge
+Enter Judge Name
+Brad    Pelican
+Created second judge
+Enter defendant data
+S Sun
+10000000
+0/0/0/ 
+U
+U
+Enter Docket Information
+Y
+Y
+Y
+Y
+Y
+Margr  lee ne
+45-24GA-452
+0/  12/13/13
+Withdran wn         Ongoing
+None
+N
+None
+Enter defendant data
+OJ  Oj  Oj J
+60
+3/4/u 81 2
+M
+B
+Enter Docket Information
+Y
+Y
+Y
+Y
+N
+Greg
+45-23-1-515
+23  2/6/13
+Withdrawn
+None
+N
+None
+Created one defendant
+Added first judge to roster1
+Added second judge to roster2
+Added first defendant to roster1
+Added second defendant to roster2
+copy constructor invoked roster3(roster1)...
+
+Roster 1 after changes is...
+
+
+
+The Judge Information mcJudgeName is: Julian Tober
+
+The Defendant Information is:
+ name: Alan Sones	age: 63	dob: 3/22/44	sex: M	race: B
+
+The Docket Information is:
+charge6105: Y	charge6106: Y	charge6108: Y	charge907: N	bail: Y	Defense Attorney: Josue Parlier	mcDocketNum: 83-AT-0112971-2010	mcFileDate: 1/8/10	mcStatus: Held on all charges	verdict: Plea	jail: N	sentence: House arrest
+
+The Judge Information mcJudgeName is: Darnell Poissant
+
+The Defendant Information is:
+ name: Lesley Silvis	age: 58	dob: 8/15/48	sex: M	race: B
+
+The Docket Information is:
+charge6105: Y	charge6106: Y	charge6108: Y	charge907: N	bail: Y	Defense Attorney: Morgan Archambault	mcDocketNum: 83-AT-0120541-2010	mcFileDate: 1/13/10	mcStatus: Held on all charges	verdict: Plea	jail: Y	sentence: 24-48 months
+
+The Judge Information mcJudgeName is: Alvin Schlicher
+
+The Defendant Information is:
+ name: Claude London	age: 56	dob: 6/3/51	sex: M	race: U
+
+The Docket Information is:
+charge6105: Y	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Lance Harsch	mcDocketNum: 83-AT-0228521-2010	mcFileDate: 2/22/10	mcStatus: Held on some charges	verdict: Plea	jail: Y	sentence: 48-96 months
+
+The Judge Information mcJudgeName is: Michel Thode
+
+The Defendant Information is:
+ name: Sidney Widener	age: 53	dob: 4/15/54	sex: M	race: B
+
+The Docket Information is:
+charge6105: Y	charge6106: Y	charge6108: Y	charge907: N	bail: Y	Defense Attorney: Jamie Louder	mcDocketNum: 83-AT-0209341-2010	mcFileDate: 2/10/10	mcStatus: Held on some charges	verdict: Plea	jail: Y	sentence: 11.5-23 months
+
+The Judge Information mcJudgeName is: Jean Shahan
+
+The Defendant Information is:
+ name: Eliseo Mccomb	age: 50	dob: 8/1/56	sex: M	race: B
+
+The Docket Information is:
+charge6105: Y	charge6106: Y	charge6108: Y	charge907: N	bail: Y	Defense Attorney: Florencio Phelan	mcDocketNum: 83-AT-0232631-2010	mcFileDate: 8/6/10	mcStatus: Case withdrawn by DA	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Damon Ehrlich
+
+The Defendant Information is:
+ name: Ken Yancey	age: 50	dob: 3/22/57	sex: M	race: W
+
+The Docket Information is:
+charge6105: Y	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Public Def.	mcDocketNum: 83-AT-0236721-2010	mcFileDate: 2/28/10	mcStatus: Held on some charges	verdict: Plea	jail: N	sentence: Probation
+
+The Judge Information mcJudgeName is: Michel Thode
+
+The Defendant Information is:
+ name: Buddy Swinger	age: 49	dob: 9/1/57	sex: M	race: B
+
+The Docket Information is:
+charge6105: Y	charge6106: N	charge6108: N	charge907: Y	bail: Y	Defense Attorney: Jamey Mullenax	mcDocketNum: 83-AT-0136531-2010	mcFileDate: 1/17/10	mcStatus: Held on some charges	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Jeffery Seville
+
+The Defendant Information is:
+ name: Ronny Scuderi	age: 49	dob: 1/11/58	sex: M	race: B
+
+The Docket Information is:
+charge6105: Y	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Public Def.	mcDocketNum: 83-AT-0101401-2010	mcFileDate: 9/11/10	mcStatus: Case withdrawn by DA	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Julian Tober
+
+The Defendant Information is:
+ name: Andrew Hori	age: 48	dob: 8/31/58	sex: M	race: W
+
+The Docket Information is:
+charge6105: N	charge6106: Y	charge6108: Y	charge907: N	bail: Y	Defense Attorney: Public Def.	mcDocketNum: 83-AT-0148191-2010	mcFileDate: 1/19/10	mcStatus: Case withdrawn by DA	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Vicente Fanelli
+
+The Defendant Information is:
+ name: Sabina Schiller	age: 46	dob: 10/10/59	sex: F	race: B
+
+The Docket Information is:
+charge6105: Y	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Ramon Lorenz	mcDocketNum: 83-AT-0210401-2010	mcFileDate: 11/16/10	mcStatus: Held on all charges	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Jean Shahan
+
+The Defendant Information is:
+ name: Loren Rochell	age: 47	dob: 4/26/60	sex: M	race: B
+
+The Docket Information is:
+charge6105: Y	charge6106: N	charge6108: N	charge907: Y	bail: Y	Defense Attorney: Josue Parlier	mcDocketNum: 83-AT-0136521-2010	mcFileDate: 1/17/10	mcStatus: Held on all charges	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Darnell Poissant
+
+The Defendant Information is:
+ name: Tory Berumen	age: 46	dob: 5/23/61	sex: M	race: B
+
+The Docket Information is:
+charge6105: Y	charge6106: N	charge6108: N	charge907: Y	bail: Y	Defense Attorney: Weldon Urbano	mcDocketNum: 83-AT-0203271-2010	mcFileDate: 2/2/10	mcStatus: Held on some charges	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Michel Thode
+
+The Defendant Information is:
+ name: Randy Pribble	age: 45	dob: 12/26/61	sex: M	race: B
+
+The Docket Information is:
+charge6105: Y	charge6106: N	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Public Def.	mcDocketNum: 83-AT-0225291-2010	mcFileDate: 1/28/10	mcStatus: Held on some charges	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Nicolas Bal
+
+The Defendant Information is:
+ name: Virgil Claggett	age: 44	dob: 7/16/63	sex: M	race: B
+
+The Docket Information is:
+charge6105: N	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Public Def.	mcDocketNum: 83-AT-1237351-2008	mcFileDate: 1/1/08	mcStatus: Held on some charges	verdict: None	jail: N	sentence: Probation
+
+The Judge Information mcJudgeName is: Julian Tober
+
+The Defendant Information is:
+ name: Glenn Clermont	age: 43	dob: 3/26/64	sex: M	race: B
+
+The Docket Information is:
+charge6105: N	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Public Def.	mcDocketNum: 83-AT-0108321-2010	mcFileDate: 1/6/10	mcStatus: Held on some charges	verdict: Plea	jail: Y	sentence: 11.5-23 months
+
+The Judge Information mcJudgeName is: Isaiah Lande
+
+The Defendant Information is:
+ name: Glenn Clermont	age: 43	dob: 3/26/64	sex: M	race: B
+
+The Docket Information is:
+charge6105: Y	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Public Def.	mcDocketNum: 83-AT-0409501-2010	mcFileDate: 1/2/10	mcStatus: Case withdrawn by DA	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Alexander Partin
+
+The Defendant Information is:
+ name: Zack Folmar	age: 36	dob: 8/21/70	sex: M	race: B
+
+The Docket Information is:
+charge6105: N	charge6106: Y	charge6108: Y	charge907: N	bail: Y	Defense Attorney: Public Def.	mcDocketNum: 83-AT-0133851-2010	mcFileDate: 1/22/10	mcStatus: Case withdrawn by DA	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Vicente Fanelli
+
+The Defendant Information is:
+ name: Alan Herriman	age: 34	dob: 11/13/72	sex: M	race: B
+
+The Docket Information is:
+charge6105: N	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Public Def.	mcDocketNum: 83-AT-0114781-2010	mcFileDate: 1/10/10	mcStatus: Held on all charges	verdict: Plea	jail: N	sentence: Probation
+
+The Judge Information mcJudgeName is: Vicente Fanelli
+
+The Defendant Information is:
+ name: Rex Enders	age: 34	dob: 3/21/73	sex: M	race: B
+
+The Docket Information is:
+charge6105: Y	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Jamey Mullenax	mcDocketNum: 83-AT-0235761-2010	mcFileDate: 2/4/10	mcStatus: Discharged LOE	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Ryan Verne
+
+The Defendant Information is:
+ name: Tyron Bach	age: 32	dob: 10/20/74	sex: M	race: B
+
+The Docket Information is:
+charge6105: N	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Public Def.	mcDocketNum: 83-AT-0200821-2010	mcFileDate: 2/6/10	mcStatus: Held on some charges	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Alvin Schlicher
+
+The Defendant Information is:
+ name: Tyron Bach	age: 32	dob: 10/20/74	sex: M	race: B
+
+The Docket Information is:
+charge6105: Y	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Public Def.	mcDocketNum: 83-AT-0200801-2010	mcFileDate: 2/6/10	mcStatus: Held on some charges	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Alvin Schlicher
+
+The Defendant Information is:
+ name: Tyron Bach	age: 32	dob: 10/20/74	sex: M	race: B
+
+The Docket Information is:
+charge6105: Y	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Public Def.	mcDocketNum: 83-AT-0200811-2010	mcFileDate: 2/6/10	mcStatus: Held on some charges	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Vicente Fanelli
+
+The Defendant Information is:
+ name: Fredrick Franzoni	age: 32	dob: 5/9/75	sex: M	race: W
+
+The Docket Information is:
+charge6105: N	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Public Def.	mcDocketNum: 83-AT-0125821-2010	mcFileDate: 1/17/10	mcStatus: Discharged LOP	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Vicente Fanelli
+
+The Defendant Information is:
+ name: Fredrick Franzoni	age: 32	dob: 5/9/75	sex: M	race: W
+
+The Docket Information is:
+charge6105: N	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Public Def.	mcDocketNum: 83-AT-0125831-2010	mcFileDate: 1/17/10	mcStatus: Discharged LOP	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Alvin Schlicher
+
+The Defendant Information is:
+ name: Shane Farago	age: 32	dob: 7/26/75	sex: M	race: W
+
+The Docket Information is:
+charge6105: Y	charge6106: Y	charge6108: Y	charge907: N	bail: Y	Defense Attorney: Horace Deshields	mcDocketNum: 83-AT-0527542-2008	mcFileDate: 1/5/08	mcStatus: Discharged LOP	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Jean Shahan
+
+The Defendant Information is:
+ name: Tyson Rieth	age: 31	dob: 8/9/75	sex: M	race: W
+
+The Docket Information is:
+charge6105: N	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Public Def.	mcDocketNum: 83-AT-0422372-2008	mcFileDate: 2/27/08	mcStatus: Case withdrawn by DA	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Keven Janzen
+
+The Defendant Information is:
+ name: Andra Fishman	age: 31	dob: 4/24/76	sex: M	race: B
+
+The Docket Information is:
+charge6105: Y	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Moshe Broyles	mcDocketNum: 83-AT-0150451-2010	mcFileDate: 1/31/10	mcStatus: Discharged LOE	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Keven Janzen
+
+The Defendant Information is:
+ name: Andra Fishman	age: 31	dob: 4/24/76	sex: M	race: B
+
+The Docket Information is:
+charge6105: N	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Moshe Broyles	mcDocketNum: 83-AT-0150461-2010	mcFileDate: 1/31/10	mcStatus: Discharged LOE	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Carl Mikels
+
+The Defendant Information is:
+ name: Rosario Calabro	age: 30	dob: 7/3/77	sex: M	race: B
+
+The Docket Information is:
+charge6105: Y	charge6106: Y	charge6108: Y	charge907: Y	bail: N	Defense Attorney: Roscoe Merz	mcDocketNum: 83-AT-0119971-2010	mcFileDate: 11/30/10	mcStatus: Held on all charges	verdict: Verdict	jail: Y	sentence: LIFE
+
+The Judge Information mcJudgeName is: Vicente Fanelli
+
+The Defendant Information is:
+ name: Ashton Smullen	age: 29	dob: 9/19/77	sex: M	race: W
+
+The Docket Information is:
+charge6105: N	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Angelo Carrasco	mcDocketNum: 83-AT-0232241-2010	mcFileDate: 2/25/10	mcStatus: Case withdrawn by DA	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Vicente Fanelli
+
+The Defendant Information is:
+ name: Ashton Smullen	age: 29	dob: 9/19/77	sex: M	race: W
+
+The Docket Information is:
+charge6105: N	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Angelo Carrasco	mcDocketNum: 83-AT-0232251-2010	mcFileDate: 2/25/10	mcStatus: Case withdrawn by DA	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Vicente Fanelli
+
+The Defendant Information is:
+ name: Ashton Smullen	age: 29	dob: 9/19/77	sex: M	race: W
+
+The Docket Information is:
+charge6105: N	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Angelo Carrasco	mcDocketNum: 83-AT-0232261-2010	mcFileDate: 2/25/10	mcStatus: Case withdrawn by DA	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Alexander Partin
+
+The Defendant Information is:
+ name: Bradley Langdon	age: 29	dob: 12/6/77	sex: M	race: B
+
+The Docket Information is:
+charge6105: Y	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Public Def.	mcDocketNum: 83-AT-0103551-2010	mcFileDate: 1/3/10	mcStatus: Discharged LOP	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Vicente Fanelli
+
+The Defendant Information is:
+ name: Benjamin Bunnell	age: 29	dob: 12/17/77	sex: M	race: B
+
+The Docket Information is:
+charge6105: Y	charge6106: N	charge6108: N	charge907: Y	bail: Y	Defense Attorney: Public Def.	mcDocketNum: 83-AT-0208661-2010	mcFileDate: 2/10/10	mcStatus: Case withdrawn by DA	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Vicente Fanelli
+
+The Defendant Information is:
+ name: Benjamin Bunnell	age: 29	dob: 12/17/77	sex: M	race: B
+
+The Docket Information is:
+charge6105: Y	charge6106: N	charge6108: N	charge907: Y	bail: Y	Defense Attorney: Public Def.	mcDocketNum: 83-AT-0208651-2010	mcFileDate: 1/13/10	mcStatus: Discharged LOE	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Julian Tober
+
+The Defendant Information is:
+ name: Rolf Pretty	age: 29	dob: 6/29/78	sex: M	race: B
+
+The Docket Information is:
+charge6105: N	charge6106: Y	charge6108: Y	charge907: N	bail: Y	Defense Attorney: Public Def.	mcDocketNum: 83-AT-0202231-2010	mcFileDate: 2/7/10	mcStatus: Held on all charges	verdict: Plea	jail: Y	sentence: 6-23 months
+
+The Judge Information mcJudgeName is: Julian Tober
+
+The Defendant Information is:
+ name: Salvatore Tracy	age: 28	dob: 11/23/78	sex: M	race: B
+
+The Docket Information is:
+charge6105: Y	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Zackary Selvy	mcDocketNum: 83-AT-0112641-2010	mcFileDate: 1/8/10	mcStatus: Held on all charges	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Jean Shahan
+
+The Defendant Information is:
+ name: Matt Turmelle	age: 28	dob: 12/3/78	sex: M	race: B
+
+The Docket Information is:
+charge6105: N	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Public Def.	mcDocketNum: 83-AT-0729792-2007	mcFileDate: 2/27/07	mcStatus: Case withdrawn by DA	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Jeffery Seville
+
+The Defendant Information is:
+ name: Ross Hillin	age: 27	dob: 9/20/79	sex: M	race: B
+
+The Docket Information is:
+charge6105: Y	charge6106: Y	charge6108: Y	charge907: N	bail: Y	Defense Attorney: Fredric Kaplan	mcDocketNum: 83-AT-0113641-2010	mcFileDate: 1/9/10	mcStatus: Held on all charges	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Darnell Poissant
+
+The Defendant Information is:
+ name: Craig Donatelli	age: 26	dob: 8/18/80	sex: M	race: B
+
+The Docket Information is:
+charge6105: Y	charge6106: Y	charge6108: Y	charge907: Y	bail: N	Defense Attorney: Public Def.	mcDocketNum: 83-AT-0204891-2010	mcFileDate: 2/9/10	mcStatus: Case withdrawn by DA	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Julian Tober
+
+The Defendant Information is:
+ name: Ciera Misiewicz	age: 26	dob: 5/18/81	sex: M	race: W
+
+The Docket Information is:
+charge6105: N	charge6106: Y	charge6108: Y	charge907: N	bail: Y	Defense Attorney: Public Def.	mcDocketNum: 83-AT-0220911-2010	mcFileDate: 2/18/10	mcStatus: Case withdrawn by DA	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Ezra Berggren
+
+The Defendant Information is:
+ name: Kyong Comes	age: 25	dob: 9/29/81	sex: M	race: B
+
+The Docket Information is:
+charge6105: Y	charge6106: Y	charge6108: Y	charge907: Y	bail: N	Defense Attorney: Michael Rizer	mcDocketNum: 83-AT-0106841-2010	mcFileDate: 12/29/10	mcStatus: Held on all charges	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Isaiah Lande
+
+The Defendant Information is:
+ name: Kyong Comes	age: 25	dob: 9/29/81	sex: M	race: B
+
+The Docket Information is:
+charge6105: Y	charge6106: Y	charge6108: Y	charge907: Y	bail: N	Defense Attorney: Public Def.	mcDocketNum: 83-AT-0106851-2010	mcFileDate: 12/29/10	mcStatus: Case withdrawn by DA	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Jean Shahan
+
+The Defendant Information is:
+ name: Brendan Rauscher	age: 24	dob: 4/4/83	sex: M	race: W
+
+The Docket Information is:
+charge6105: Y	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Mariano Lasch	mcDocketNum: 83-AT-0129771-2010	mcFileDate: 1/8/10	mcStatus: Case withdrawn by DA	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Jeffery Seville
+
+The Defendant Information is:
+ name: Dione Motyka	age: 22	dob: 2/8/85	sex: M	race: B
+
+The Docket Information is:
+charge6105: N	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Bart Getz	mcDocketNum: 83-AT-0211321-2010	mcFileDate: 2/11/10	mcStatus: Held on some charges	verdict: Plea	jail: Y	sentence: 11.5-23 months
+
+The Judge Information mcJudgeName is: Jeffery Seville
+
+The Defendant Information is:
+ name: Dione Motyka	age: 22	dob: 2/8/85	sex: M	race: B
+
+The Docket Information is:
+charge6105: N	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Bart Getz	mcDocketNum: 83-AT-0211311-2010	mcFileDate: 2/11/10	mcStatus: Discharged LOE	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Jeffery Seville
+
+The Defendant Information is:
+ name: Dione Motyka	age: 22	dob: 2/8/85	sex: M	race: B
+
+The Docket Information is:
+charge6105: N	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Bart Getz	mcDocketNum: 83-AT-0211301-2010	mcFileDate: 2/11/10	mcStatus: Discharged LOE	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Alvin Schlicher
+
+The Defendant Information is:
+ name: Lady Epping	age: 22	dob: 3/4/85	sex: F	race: B
+
+The Docket Information is:
+charge6105: N	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Public Def.	mcDocketNum: 83-AT-0206361-2010	mcFileDate: 1/27/10	mcStatus: Discharged LOP	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Vicente Fanelli
+
+The Defendant Information is:
+ name: Ronny Grogg	age: 21	dob: 9/2/85	sex: M	race: B
+
+The Docket Information is:
+charge6105: Y	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Public Def.	mcDocketNum: 83-AT-0203811-2010	mcFileDate: 1/7/10	mcStatus: Held on all charges	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Isaiah Lande
+
+The Defendant Information is:
+ name: Ronny Grogg	age: 21	dob: 9/2/85	sex: M	race: B
+
+The Docket Information is:
+charge6105: N	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Public Def.	mcDocketNum: 83-AT-0203821-2010	mcFileDate: 1/9/10	mcStatus: Case withdrawn by DA	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Newton Blocker
+
+The Defendant Information is:
+ name: Denny Spies	age: 21	dob: 7/25/86	sex: M	race: B
+
+The Docket Information is:
+charge6105: N	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Orval Peoples	mcDocketNum: 83-AT-0156241-2010	mcFileDate: 2/3/10	mcStatus: Discharged	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Newton Blocker
+
+The Defendant Information is:
+ name: Denny Spies	age: 21	dob: 7/25/86	sex: M	race: B
+
+The Docket Information is:
+charge6105: N	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Orval Peoples	mcDocketNum: 83-AT-0156251-2010	mcFileDate: 2/3/10	mcStatus: Discharged	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Newton Blocker
+
+The Defendant Information is:
+ name: Denny Spies	age: 21	dob: 7/25/86	sex: M	race: B
+
+The Docket Information is:
+charge6105: N	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Orval Peoples	mcDocketNum: 83-AT-0156261-2010	mcFileDate: 2/3/10	mcStatus: Discharged	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Newton Blocker
+
+The Defendant Information is:
+ name: Denny Spies	age: 21	dob: 7/25/86	sex: M	race: B
+
+The Docket Information is:
+charge6105: N	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Orval Peoples	mcDocketNum: 83-AT-0156271-2010	mcFileDate: 2/3/10	mcStatus: Discharged	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Alexander Partin
+
+The Defendant Information is:
+ name: Leandro Wilmeth	age: 20	dob: 12/10/86	sex: M	race: B
+
+The Docket Information is:
+charge6105: N	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Solomon Mendivil	mcDocketNum: 83-AT-0116581-2010	mcFileDate: 12/20/10	mcStatus: Discharged LOP	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Lino Weatherholtz
+
+The Defendant Information is:
+ name: Everett Bono	age: 20	dob: 3/17/87	sex: M	race: B
+
+The Docket Information is:
+charge6105: N	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Efrain Kyles	mcDocketNum: 83-AT-0118161-2010	mcFileDate: 7/15/10	mcStatus: Discharged LOP	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Lino Weatherholtz
+
+The Defendant Information is:
+ name: Everett Bono	age: 20	dob: 3/17/87	sex: M	race: B
+
+The Docket Information is:
+charge6105: N	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Efrain Kyles	mcDocketNum: 83-AT-0118151-2010	mcFileDate: 7/15/10	mcStatus: Discharged LOP	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Isaiah Lande
+
+The Defendant Information is:
+ name: Joshua Mahurin	age: 19	dob: 9/28/87	sex: M	race: B
+
+The Docket Information is:
+charge6105: Y	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Bart Getz	mcDocketNum: 83-AT-0114671-2010	mcFileDate: 9/29/10	mcStatus: Case withdrawn by DA	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Isaiah Lande
+
+The Defendant Information is:
+ name: Joshua Mahurin	age: 19	dob: 9/28/87	sex: M	race: B
+
+The Docket Information is:
+charge6105: Y	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Bart Getz	mcDocketNum: 83-AT-0114681-2010	mcFileDate: 10/12/10	mcStatus: Case withdrawn by DA	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Isaiah Lande
+
+The Defendant Information is:
+ name: Joshua Mahurin	age: 19	dob: 9/29/87	sex: M	race: B
+
+The Docket Information is:
+charge6105: Y	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Bart Getz	mcDocketNum: 83-AT-0114691-2010	mcFileDate: 12/20/10	mcStatus: Case withdrawn by DA	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Tom
+
+The Defendant Information is:
+ name: Sun	age: 10000000	dob: 0/0/0	sex: U	race: U
+
+The Docket Information is:
+charge6105: Y	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Marlene	mcDocketNum: 45-24GA-452	mcFileDate: 12/13/13	mcStatus: Ongoing	verdict: None	jail: N	sentence: None
+
+Roster 2 after changes is...
+
+
+
+The Judge Information mcJudgeName is: Julian Tober
+
+The Defendant Information is:
+ name: Alan Sones	age: 63	dob: 3/22/44	sex: M	race: B
+
+The Docket Information is:
+charge6105: Y	charge6106: Y	charge6108: Y	charge907: N	bail: Y	Defense Attorney: Josue Parlier	mcDocketNum: 83-AT-0112971-2010	mcFileDate: 1/8/10	mcStatus: Held on all charges	verdict: Plea	jail: N	sentence: House arrest
+
+The Judge Information mcJudgeName is: Darnell Poissant
+
+The Defendant Information is:
+ name: Lesley Silvis	age: 58	dob: 8/15/48	sex: M	race: B
+
+The Docket Information is:
+charge6105: Y	charge6106: Y	charge6108: Y	charge907: N	bail: Y	Defense Attorney: Morgan Archambault	mcDocketNum: 83-AT-0120541-2010	mcFileDate: 1/13/10	mcStatus: Held on all charges	verdict: Plea	jail: Y	sentence: 24-48 months
+
+The Judge Information mcJudgeName is: Alvin Schlicher
+
+The Defendant Information is:
+ name: Claude London	age: 56	dob: 6/3/51	sex: M	race: U
+
+The Docket Information is:
+charge6105: Y	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Lance Harsch	mcDocketNum: 83-AT-0228521-2010	mcFileDate: 2/22/10	mcStatus: Held on some charges	verdict: Plea	jail: Y	sentence: 48-96 months
+
+The Judge Information mcJudgeName is: Michel Thode
+
+The Defendant Information is:
+ name: Sidney Widener	age: 53	dob: 4/15/54	sex: M	race: B
+
+The Docket Information is:
+charge6105: Y	charge6106: Y	charge6108: Y	charge907: N	bail: Y	Defense Attorney: Jamie Louder	mcDocketNum: 83-AT-0209341-2010	mcFileDate: 2/10/10	mcStatus: Held on some charges	verdict: Plea	jail: Y	sentence: 11.5-23 months
+
+The Judge Information mcJudgeName is: Jean Shahan
+
+The Defendant Information is:
+ name: Eliseo Mccomb	age: 50	dob: 8/1/56	sex: M	race: B
+
+The Docket Information is:
+charge6105: Y	charge6106: Y	charge6108: Y	charge907: N	bail: Y	Defense Attorney: Florencio Phelan	mcDocketNum: 83-AT-0232631-2010	mcFileDate: 8/6/10	mcStatus: Case withdrawn by DA	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Damon Ehrlich
+
+The Defendant Information is:
+ name: Ken Yancey	age: 50	dob: 3/22/57	sex: M	race: W
+
+The Docket Information is:
+charge6105: Y	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Public Def.	mcDocketNum: 83-AT-0236721-2010	mcFileDate: 2/28/10	mcStatus: Held on some charges	verdict: Plea	jail: N	sentence: Probation
+
+The Judge Information mcJudgeName is: Michel Thode
+
+The Defendant Information is:
+ name: Buddy Swinger	age: 49	dob: 9/1/57	sex: M	race: B
+
+The Docket Information is:
+charge6105: Y	charge6106: N	charge6108: N	charge907: Y	bail: Y	Defense Attorney: Jamey Mullenax	mcDocketNum: 83-AT-0136531-2010	mcFileDate: 1/17/10	mcStatus: Held on some charges	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Jeffery Seville
+
+The Defendant Information is:
+ name: Ronny Scuderi	age: 49	dob: 1/11/58	sex: M	race: B
+
+The Docket Information is:
+charge6105: Y	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Public Def.	mcDocketNum: 83-AT-0101401-2010	mcFileDate: 9/11/10	mcStatus: Case withdrawn by DA	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Julian Tober
+
+The Defendant Information is:
+ name: Andrew Hori	age: 48	dob: 8/31/58	sex: M	race: W
+
+The Docket Information is:
+charge6105: N	charge6106: Y	charge6108: Y	charge907: N	bail: Y	Defense Attorney: Public Def.	mcDocketNum: 83-AT-0148191-2010	mcFileDate: 1/19/10	mcStatus: Case withdrawn by DA	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Vicente Fanelli
+
+The Defendant Information is:
+ name: Sabina Schiller	age: 46	dob: 10/10/59	sex: F	race: B
+
+The Docket Information is:
+charge6105: Y	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Ramon Lorenz	mcDocketNum: 83-AT-0210401-2010	mcFileDate: 11/16/10	mcStatus: Held on all charges	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Jean Shahan
+
+The Defendant Information is:
+ name: Loren Rochell	age: 47	dob: 4/26/60	sex: M	race: B
+
+The Docket Information is:
+charge6105: Y	charge6106: N	charge6108: N	charge907: Y	bail: Y	Defense Attorney: Josue Parlier	mcDocketNum: 83-AT-0136521-2010	mcFileDate: 1/17/10	mcStatus: Held on all charges	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Darnell Poissant
+
+The Defendant Information is:
+ name: Tory Berumen	age: 46	dob: 5/23/61	sex: M	race: B
+
+The Docket Information is:
+charge6105: Y	charge6106: N	charge6108: N	charge907: Y	bail: Y	Defense Attorney: Weldon Urbano	mcDocketNum: 83-AT-0203271-2010	mcFileDate: 2/2/10	mcStatus: Held on some charges	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Michel Thode
+
+The Defendant Information is:
+ name: Randy Pribble	age: 45	dob: 12/26/61	sex: M	race: B
+
+The Docket Information is:
+charge6105: Y	charge6106: N	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Public Def.	mcDocketNum: 83-AT-0225291-2010	mcFileDate: 1/28/10	mcStatus: Held on some charges	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Nicolas Bal
+
+The Defendant Information is:
+ name: Virgil Claggett	age: 44	dob: 7/16/63	sex: M	race: B
+
+The Docket Information is:
+charge6105: N	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Public Def.	mcDocketNum: 83-AT-1237351-2008	mcFileDate: 1/1/08	mcStatus: Held on some charges	verdict: None	jail: N	sentence: Probation
+
+The Judge Information mcJudgeName is: Julian Tober
+
+The Defendant Information is:
+ name: Glenn Clermont	age: 43	dob: 3/26/64	sex: M	race: B
+
+The Docket Information is:
+charge6105: N	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Public Def.	mcDocketNum: 83-AT-0108321-2010	mcFileDate: 1/6/10	mcStatus: Held on some charges	verdict: Plea	jail: Y	sentence: 11.5-23 months
+
+The Judge Information mcJudgeName is: Isaiah Lande
+
+The Defendant Information is:
+ name: Glenn Clermont	age: 43	dob: 3/26/64	sex: M	race: B
+
+The Docket Information is:
+charge6105: Y	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Public Def.	mcDocketNum: 83-AT-0409501-2010	mcFileDate: 1/2/10	mcStatus: Case withdrawn by DA	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Alexander Partin
+
+The Defendant Information is:
+ name: Zack Folmar	age: 36	dob: 8/21/70	sex: M	race: B
+
+The Docket Information is:
+charge6105: N	charge6106: Y	charge6108: Y	charge907: N	bail: Y	Defense Attorney: Public Def.	mcDocketNum: 83-AT-0133851-2010	mcFileDate: 1/22/10	mcStatus: Case withdrawn by DA	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Vicente Fanelli
+
+The Defendant Information is:
+ name: Alan Herriman	age: 34	dob: 11/13/72	sex: M	race: B
+
+The Docket Information is:
+charge6105: N	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Public Def.	mcDocketNum: 83-AT-0114781-2010	mcFileDate: 1/10/10	mcStatus: Held on all charges	verdict: Plea	jail: N	sentence: Probation
+
+The Judge Information mcJudgeName is: Vicente Fanelli
+
+The Defendant Information is:
+ name: Rex Enders	age: 34	dob: 3/21/73	sex: M	race: B
+
+The Docket Information is:
+charge6105: Y	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Jamey Mullenax	mcDocketNum: 83-AT-0235761-2010	mcFileDate: 2/4/10	mcStatus: Discharged LOE	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Ryan Verne
+
+The Defendant Information is:
+ name: Tyron Bach	age: 32	dob: 10/20/74	sex: M	race: B
+
+The Docket Information is:
+charge6105: N	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Public Def.	mcDocketNum: 83-AT-0200821-2010	mcFileDate: 2/6/10	mcStatus: Held on some charges	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Alvin Schlicher
+
+The Defendant Information is:
+ name: Tyron Bach	age: 32	dob: 10/20/74	sex: M	race: B
+
+The Docket Information is:
+charge6105: Y	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Public Def.	mcDocketNum: 83-AT-0200801-2010	mcFileDate: 2/6/10	mcStatus: Held on some charges	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Alvin Schlicher
+
+The Defendant Information is:
+ name: Tyron Bach	age: 32	dob: 10/20/74	sex: M	race: B
+
+The Docket Information is:
+charge6105: Y	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Public Def.	mcDocketNum: 83-AT-0200811-2010	mcFileDate: 2/6/10	mcStatus: Held on some charges	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Vicente Fanelli
+
+The Defendant Information is:
+ name: Fredrick Franzoni	age: 32	dob: 5/9/75	sex: M	race: W
+
+The Docket Information is:
+charge6105: N	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Public Def.	mcDocketNum: 83-AT-0125821-2010	mcFileDate: 1/17/10	mcStatus: Discharged LOP	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Vicente Fanelli
+
+The Defendant Information is:
+ name: Fredrick Franzoni	age: 32	dob: 5/9/75	sex: M	race: W
+
+The Docket Information is:
+charge6105: N	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Public Def.	mcDocketNum: 83-AT-0125831-2010	mcFileDate: 1/17/10	mcStatus: Discharged LOP	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Alvin Schlicher
+
+The Defendant Information is:
+ name: Shane Farago	age: 32	dob: 7/26/75	sex: M	race: W
+
+The Docket Information is:
+charge6105: Y	charge6106: Y	charge6108: Y	charge907: N	bail: Y	Defense Attorney: Horace Deshields	mcDocketNum: 83-AT-0527542-2008	mcFileDate: 1/5/08	mcStatus: Discharged LOP	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Jean Shahan
+
+The Defendant Information is:
+ name: Tyson Rieth	age: 31	dob: 8/9/75	sex: M	race: W
+
+The Docket Information is:
+charge6105: N	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Public Def.	mcDocketNum: 83-AT-0422372-2008	mcFileDate: 2/27/08	mcStatus: Case withdrawn by DA	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Keven Janzen
+
+The Defendant Information is:
+ name: Andra Fishman	age: 31	dob: 4/24/76	sex: M	race: B
+
+The Docket Information is:
+charge6105: Y	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Moshe Broyles	mcDocketNum: 83-AT-0150451-2010	mcFileDate: 1/31/10	mcStatus: Discharged LOE	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Keven Janzen
+
+The Defendant Information is:
+ name: Andra Fishman	age: 31	dob: 4/24/76	sex: M	race: B
+
+The Docket Information is:
+charge6105: N	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Moshe Broyles	mcDocketNum: 83-AT-0150461-2010	mcFileDate: 1/31/10	mcStatus: Discharged LOE	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Carl Mikels
+
+The Defendant Information is:
+ name: Rosario Calabro	age: 30	dob: 7/3/77	sex: M	race: B
+
+The Docket Information is:
+charge6105: Y	charge6106: Y	charge6108: Y	charge907: Y	bail: N	Defense Attorney: Roscoe Merz	mcDocketNum: 83-AT-0119971-2010	mcFileDate: 11/30/10	mcStatus: Held on all charges	verdict: Verdict	jail: Y	sentence: LIFE
+
+The Judge Information mcJudgeName is: Vicente Fanelli
+
+The Defendant Information is:
+ name: Ashton Smullen	age: 29	dob: 9/19/77	sex: M	race: W
+
+The Docket Information is:
+charge6105: N	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Angelo Carrasco	mcDocketNum: 83-AT-0232241-2010	mcFileDate: 2/25/10	mcStatus: Case withdrawn by DA	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Vicente Fanelli
+
+The Defendant Information is:
+ name: Ashton Smullen	age: 29	dob: 9/19/77	sex: M	race: W
+
+The Docket Information is:
+charge6105: N	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Angelo Carrasco	mcDocketNum: 83-AT-0232251-2010	mcFileDate: 2/25/10	mcStatus: Case withdrawn by DA	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Vicente Fanelli
+
+The Defendant Information is:
+ name: Ashton Smullen	age: 29	dob: 9/19/77	sex: M	race: W
+
+The Docket Information is:
+charge6105: N	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Angelo Carrasco	mcDocketNum: 83-AT-0232261-2010	mcFileDate: 2/25/10	mcStatus: Case withdrawn by DA	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Alexander Partin
+
+The Defendant Information is:
+ name: Bradley Langdon	age: 29	dob: 12/6/77	sex: M	race: B
+
+The Docket Information is:
+charge6105: Y	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Public Def.	mcDocketNum: 83-AT-0103551-2010	mcFileDate: 1/3/10	mcStatus: Discharged LOP	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Vicente Fanelli
+
+The Defendant Information is:
+ name: Benjamin Bunnell	age: 29	dob: 12/17/77	sex: M	race: B
+
+The Docket Information is:
+charge6105: Y	charge6106: N	charge6108: N	charge907: Y	bail: Y	Defense Attorney: Public Def.	mcDocketNum: 83-AT-0208661-2010	mcFileDate: 2/10/10	mcStatus: Case withdrawn by DA	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Vicente Fanelli
+
+The Defendant Information is:
+ name: Benjamin Bunnell	age: 29	dob: 12/17/77	sex: M	race: B
+
+The Docket Information is:
+charge6105: Y	charge6106: N	charge6108: N	charge907: Y	bail: Y	Defense Attorney: Public Def.	mcDocketNum: 83-AT-0208651-2010	mcFileDate: 1/13/10	mcStatus: Discharged LOE	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Julian Tober
+
+The Defendant Information is:
+ name: Rolf Pretty	age: 29	dob: 6/29/78	sex: M	race: B
+
+The Docket Information is:
+charge6105: N	charge6106: Y	charge6108: Y	charge907: N	bail: Y	Defense Attorney: Public Def.	mcDocketNum: 83-AT-0202231-2010	mcFileDate: 2/7/10	mcStatus: Held on all charges	verdict: Plea	jail: Y	sentence: 6-23 months
+
+The Judge Information mcJudgeName is: Julian Tober
+
+The Defendant Information is:
+ name: Salvatore Tracy	age: 28	dob: 11/23/78	sex: M	race: B
+
+The Docket Information is:
+charge6105: Y	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Zackary Selvy	mcDocketNum: 83-AT-0112641-2010	mcFileDate: 1/8/10	mcStatus: Held on all charges	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Jean Shahan
+
+The Defendant Information is:
+ name: Matt Turmelle	age: 28	dob: 12/3/78	sex: M	race: B
+
+The Docket Information is:
+charge6105: N	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Public Def.	mcDocketNum: 83-AT-0729792-2007	mcFileDate: 2/27/07	mcStatus: Case withdrawn by DA	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Jeffery Seville
+
+The Defendant Information is:
+ name: Ross Hillin	age: 27	dob: 9/20/79	sex: M	race: B
+
+The Docket Information is:
+charge6105: Y	charge6106: Y	charge6108: Y	charge907: N	bail: Y	Defense Attorney: Fredric Kaplan	mcDocketNum: 83-AT-0113641-2010	mcFileDate: 1/9/10	mcStatus: Held on all charges	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Darnell Poissant
+
+The Defendant Information is:
+ name: Craig Donatelli	age: 26	dob: 8/18/80	sex: M	race: B
+
+The Docket Information is:
+charge6105: Y	charge6106: Y	charge6108: Y	charge907: Y	bail: N	Defense Attorney: Public Def.	mcDocketNum: 83-AT-0204891-2010	mcFileDate: 2/9/10	mcStatus: Case withdrawn by DA	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Julian Tober
+
+The Defendant Information is:
+ name: Ciera Misiewicz	age: 26	dob: 5/18/81	sex: M	race: W
+
+The Docket Information is:
+charge6105: N	charge6106: Y	charge6108: Y	charge907: N	bail: Y	Defense Attorney: Public Def.	mcDocketNum: 83-AT-0220911-2010	mcFileDate: 2/18/10	mcStatus: Case withdrawn by DA	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Ezra Berggren
+
+The Defendant Information is:
+ name: Kyong Comes	age: 25	dob: 9/29/81	sex: M	race: B
+
+The Docket Information is:
+charge6105: Y	charge6106: Y	charge6108: Y	charge907: Y	bail: N	Defense Attorney: Michael Rizer	mcDocketNum: 83-AT-0106841-2010	mcFileDate: 12/29/10	mcStatus: Held on all charges	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Isaiah Lande
+
+The Defendant Information is:
+ name: Kyong Comes	age: 25	dob: 9/29/81	sex: M	race: B
+
+The Docket Information is:
+charge6105: Y	charge6106: Y	charge6108: Y	charge907: Y	bail: N	Defense Attorney: Public Def.	mcDocketNum: 83-AT-0106851-2010	mcFileDate: 12/29/10	mcStatus: Case withdrawn by DA	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Jean Shahan
+
+The Defendant Information is:
+ name: Brendan Rauscher	age: 24	dob: 4/4/83	sex: M	race: W
+
+The Docket Information is:
+charge6105: Y	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Mariano Lasch	mcDocketNum: 83-AT-0129771-2010	mcFileDate: 1/8/10	mcStatus: Case withdrawn by DA	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Jeffery Seville
+
+The Defendant Information is:
+ name: Dione Motyka	age: 22	dob: 2/8/85	sex: M	race: B
+
+The Docket Information is:
+charge6105: N	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Bart Getz	mcDocketNum: 83-AT-0211321-2010	mcFileDate: 2/11/10	mcStatus: Held on some charges	verdict: Plea	jail: Y	sentence: 11.5-23 months
+
+The Judge Information mcJudgeName is: Jeffery Seville
+
+The Defendant Information is:
+ name: Dione Motyka	age: 22	dob: 2/8/85	sex: M	race: B
+
+The Docket Information is:
+charge6105: N	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Bart Getz	mcDocketNum: 83-AT-0211311-2010	mcFileDate: 2/11/10	mcStatus: Discharged LOE	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Jeffery Seville
+
+The Defendant Information is:
+ name: Dione Motyka	age: 22	dob: 2/8/85	sex: M	race: B
+
+The Docket Information is:
+charge6105: N	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Bart Getz	mcDocketNum: 83-AT-0211301-2010	mcFileDate: 2/11/10	mcStatus: Discharged LOE	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Alvin Schlicher
+
+The Defendant Information is:
+ name: Lady Epping	age: 22	dob: 3/4/85	sex: F	race: B
+
+The Docket Information is:
+charge6105: N	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Public Def.	mcDocketNum: 83-AT-0206361-2010	mcFileDate: 1/27/10	mcStatus: Discharged LOP	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Vicente Fanelli
+
+The Defendant Information is:
+ name: Ronny Grogg	age: 21	dob: 9/2/85	sex: M	race: B
+
+The Docket Information is:
+charge6105: Y	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Public Def.	mcDocketNum: 83-AT-0203811-2010	mcFileDate: 1/7/10	mcStatus: Held on all charges	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Isaiah Lande
+
+The Defendant Information is:
+ name: Ronny Grogg	age: 21	dob: 9/2/85	sex: M	race: B
+
+The Docket Information is:
+charge6105: N	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Public Def.	mcDocketNum: 83-AT-0203821-2010	mcFileDate: 1/9/10	mcStatus: Case withdrawn by DA	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Newton Blocker
+
+The Defendant Information is:
+ name: Denny Spies	age: 21	dob: 7/25/86	sex: M	race: B
+
+The Docket Information is:
+charge6105: N	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Orval Peoples	mcDocketNum: 83-AT-0156241-2010	mcFileDate: 2/3/10	mcStatus: Discharged	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Newton Blocker
+
+The Defendant Information is:
+ name: Denny Spies	age: 21	dob: 7/25/86	sex: M	race: B
+
+The Docket Information is:
+charge6105: N	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Orval Peoples	mcDocketNum: 83-AT-0156251-2010	mcFileDate: 2/3/10	mcStatus: Discharged	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Newton Blocker
+
+The Defendant Information is:
+ name: Denny Spies	age: 21	dob: 7/25/86	sex: M	race: B
+
+The Docket Information is:
+charge6105: N	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Orval Peoples	mcDocketNum: 83-AT-0156261-2010	mcFileDate: 2/3/10	mcStatus: Discharged	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Newton Blocker
+
+The Defendant Information is:
+ name: Denny Spies	age: 21	dob: 7/25/86	sex: M	race: B
+
+The Docket Information is:
+charge6105: N	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Orval Peoples	mcDocketNum: 83-AT-0156271-2010	mcFileDate: 2/3/10	mcStatus: Discharged	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Alexander Partin
+
+The Defendant Information is:
+ name: Leandro Wilmeth	age: 20	dob: 12/10/86	sex: M	race: B
+
+The Docket Information is:
+charge6105: N	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Solomon Mendivil	mcDocketNum: 83-AT-0116581-2010	mcFileDate: 12/20/10	mcStatus: Discharged LOP	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Lino Weatherholtz
+
+The Defendant Information is:
+ name: Everett Bono	age: 20	dob: 3/17/87	sex: M	race: B
+
+The Docket Information is:
+charge6105: N	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Efrain Kyles	mcDocketNum: 83-AT-0118161-2010	mcFileDate: 7/15/10	mcStatus: Discharged LOP	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Lino Weatherholtz
+
+The Defendant Information is:
+ name: Everett Bono	age: 20	dob: 3/17/87	sex: M	race: B
+
+The Docket Information is:
+charge6105: N	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Efrain Kyles	mcDocketNum: 83-AT-0118151-2010	mcFileDate: 7/15/10	mcStatus: Discharged LOP	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Isaiah Lande
+
+The Defendant Information is:
+ name: Joshua Mahurin	age: 19	dob: 9/28/87	sex: M	race: B
+
+The Docket Information is:
+charge6105: Y	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Bart Getz	mcDocketNum: 83-AT-0114671-2010	mcFileDate: 9/29/10	mcStatus: Case withdrawn by DA	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Isaiah Lande
+
+The Defendant Information is:
+ name: Joshua Mahurin	age: 19	dob: 9/28/87	sex: M	race: B
+
+The Docket Information is:
+charge6105: Y	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Bart Getz	mcDocketNum: 83-AT-0114681-2010	mcFileDate: 10/12/10	mcStatus: Case withdrawn by DA	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Isaiah Lande
+
+The Defendant Information is:
+ name: Joshua Mahurin	age: 19	dob: 9/29/87	sex: M	race: B
+
+The Docket Information is:
+charge6105: Y	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Bart Getz	mcDocketNum: 83-AT-0114691-2010	mcFileDate: 12/20/10	mcStatus: Case withdrawn by DA	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Pelican
+
+The Defendant Information is:
+ name: OJ	age: 60	dob: 3/4/82	sex: M	race: B
+
+The Docket Information is:
+charge6105: Y	charge6106: Y	charge6108: Y	charge907: Y	bail: N	Defense Attorney: Greg	mcDocketNum: 45-23-1-515	mcFileDate: 2/6/13	mcStatus: Withdrawn	verdict: None	jail: N	sentence: None
+
+Roster 3 after changes is...
+
+
+
+The Judge Information mcJudgeName is: Julian Tober
+
+The Defendant Information is:
+ name: Alan Sones	age: 63	dob: 3/22/44	sex: M	race: B
+
+The Docket Information is:
+charge6105: Y	charge6106: Y	charge6108: Y	charge907: N	bail: Y	Defense Attorney: Josue Parlier	mcDocketNum: 83-AT-0112971-2010	mcFileDate: 1/8/10	mcStatus: Held on all charges	verdict: Plea	jail: N	sentence: House arrest
+
+The Judge Information mcJudgeName is: Darnell Poissant
+
+The Defendant Information is:
+ name: Lesley Silvis	age: 58	dob: 8/15/48	sex: M	race: B
+
+The Docket Information is:
+charge6105: Y	charge6106: Y	charge6108: Y	charge907: N	bail: Y	Defense Attorney: Morgan Archambault	mcDocketNum: 83-AT-0120541-2010	mcFileDate: 1/13/10	mcStatus: Held on all charges	verdict: Plea	jail: Y	sentence: 24-48 months
+
+The Judge Information mcJudgeName is: Alvin Schlicher
+
+The Defendant Information is:
+ name: Claude London	age: 56	dob: 6/3/51	sex: M	race: U
+
+The Docket Information is:
+charge6105: Y	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Lance Harsch	mcDocketNum: 83-AT-0228521-2010	mcFileDate: 2/22/10	mcStatus: Held on some charges	verdict: Plea	jail: Y	sentence: 48-96 months
+
+The Judge Information mcJudgeName is: Michel Thode
+
+The Defendant Information is:
+ name: Sidney Widener	age: 53	dob: 4/15/54	sex: M	race: B
+
+The Docket Information is:
+charge6105: Y	charge6106: Y	charge6108: Y	charge907: N	bail: Y	Defense Attorney: Jamie Louder	mcDocketNum: 83-AT-0209341-2010	mcFileDate: 2/10/10	mcStatus: Held on some charges	verdict: Plea	jail: Y	sentence: 11.5-23 months
+
+The Judge Information mcJudgeName is: Jean Shahan
+
+The Defendant Information is:
+ name: Eliseo Mccomb	age: 50	dob: 8/1/56	sex: M	race: B
+
+The Docket Information is:
+charge6105: Y	charge6106: Y	charge6108: Y	charge907: N	bail: Y	Defense Attorney: Florencio Phelan	mcDocketNum: 83-AT-0232631-2010	mcFileDate: 8/6/10	mcStatus: Case withdrawn by DA	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Damon Ehrlich
+
+The Defendant Information is:
+ name: Ken Yancey	age: 50	dob: 3/22/57	sex: M	race: W
+
+The Docket Information is:
+charge6105: Y	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Public Def.	mcDocketNum: 83-AT-0236721-2010	mcFileDate: 2/28/10	mcStatus: Held on some charges	verdict: Plea	jail: N	sentence: Probation
+
+The Judge Information mcJudgeName is: Michel Thode
+
+The Defendant Information is:
+ name: Buddy Swinger	age: 49	dob: 9/1/57	sex: M	race: B
+
+The Docket Information is:
+charge6105: Y	charge6106: N	charge6108: N	charge907: Y	bail: Y	Defense Attorney: Jamey Mullenax	mcDocketNum: 83-AT-0136531-2010	mcFileDate: 1/17/10	mcStatus: Held on some charges	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Jeffery Seville
+
+The Defendant Information is:
+ name: Ronny Scuderi	age: 49	dob: 1/11/58	sex: M	race: B
+
+The Docket Information is:
+charge6105: Y	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Public Def.	mcDocketNum: 83-AT-0101401-2010	mcFileDate: 9/11/10	mcStatus: Case withdrawn by DA	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Julian Tober
+
+The Defendant Information is:
+ name: Andrew Hori	age: 48	dob: 8/31/58	sex: M	race: W
+
+The Docket Information is:
+charge6105: N	charge6106: Y	charge6108: Y	charge907: N	bail: Y	Defense Attorney: Public Def.	mcDocketNum: 83-AT-0148191-2010	mcFileDate: 1/19/10	mcStatus: Case withdrawn by DA	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Vicente Fanelli
+
+The Defendant Information is:
+ name: Sabina Schiller	age: 46	dob: 10/10/59	sex: F	race: B
+
+The Docket Information is:
+charge6105: Y	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Ramon Lorenz	mcDocketNum: 83-AT-0210401-2010	mcFileDate: 11/16/10	mcStatus: Held on all charges	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Jean Shahan
+
+The Defendant Information is:
+ name: Loren Rochell	age: 47	dob: 4/26/60	sex: M	race: B
+
+The Docket Information is:
+charge6105: Y	charge6106: N	charge6108: N	charge907: Y	bail: Y	Defense Attorney: Josue Parlier	mcDocketNum: 83-AT-0136521-2010	mcFileDate: 1/17/10	mcStatus: Held on all charges	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Darnell Poissant
+
+The Defendant Information is:
+ name: Tory Berumen	age: 46	dob: 5/23/61	sex: M	race: B
+
+The Docket Information is:
+charge6105: Y	charge6106: N	charge6108: N	charge907: Y	bail: Y	Defense Attorney: Weldon Urbano	mcDocketNum: 83-AT-0203271-2010	mcFileDate: 2/2/10	mcStatus: Held on some charges	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Michel Thode
+
+The Defendant Information is:
+ name: Randy Pribble	age: 45	dob: 12/26/61	sex: M	race: B
+
+The Docket Information is:
+charge6105: Y	charge6106: N	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Public Def.	mcDocketNum: 83-AT-0225291-2010	mcFileDate: 1/28/10	mcStatus: Held on some charges	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Nicolas Bal
+
+The Defendant Information is:
+ name: Virgil Claggett	age: 44	dob: 7/16/63	sex: M	race: B
+
+The Docket Information is:
+charge6105: N	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Public Def.	mcDocketNum: 83-AT-1237351-2008	mcFileDate: 1/1/08	mcStatus: Held on some charges	verdict: None	jail: N	sentence: Probation
+
+The Judge Information mcJudgeName is: Julian Tober
+
+The Defendant Information is:
+ name: Glenn Clermont	age: 43	dob: 3/26/64	sex: M	race: B
+
+The Docket Information is:
+charge6105: N	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Public Def.	mcDocketNum: 83-AT-0108321-2010	mcFileDate: 1/6/10	mcStatus: Held on some charges	verdict: Plea	jail: Y	sentence: 11.5-23 months
+
+The Judge Information mcJudgeName is: Isaiah Lande
+
+The Defendant Information is:
+ name: Glenn Clermont	age: 43	dob: 3/26/64	sex: M	race: B
+
+The Docket Information is:
+charge6105: Y	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Public Def.	mcDocketNum: 83-AT-0409501-2010	mcFileDate: 1/2/10	mcStatus: Case withdrawn by DA	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Alexander Partin
+
+The Defendant Information is:
+ name: Zack Folmar	age: 36	dob: 8/21/70	sex: M	race: B
+
+The Docket Information is:
+charge6105: N	charge6106: Y	charge6108: Y	charge907: N	bail: Y	Defense Attorney: Public Def.	mcDocketNum: 83-AT-0133851-2010	mcFileDate: 1/22/10	mcStatus: Case withdrawn by DA	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Vicente Fanelli
+
+The Defendant Information is:
+ name: Alan Herriman	age: 34	dob: 11/13/72	sex: M	race: B
+
+The Docket Information is:
+charge6105: N	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Public Def.	mcDocketNum: 83-AT-0114781-2010	mcFileDate: 1/10/10	mcStatus: Held on all charges	verdict: Plea	jail: N	sentence: Probation
+
+The Judge Information mcJudgeName is: Vicente Fanelli
+
+The Defendant Information is:
+ name: Rex Enders	age: 34	dob: 3/21/73	sex: M	race: B
+
+The Docket Information is:
+charge6105: Y	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Jamey Mullenax	mcDocketNum: 83-AT-0235761-2010	mcFileDate: 2/4/10	mcStatus: Discharged LOE	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Ryan Verne
+
+The Defendant Information is:
+ name: Tyron Bach	age: 32	dob: 10/20/74	sex: M	race: B
+
+The Docket Information is:
+charge6105: N	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Public Def.	mcDocketNum: 83-AT-0200821-2010	mcFileDate: 2/6/10	mcStatus: Held on some charges	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Alvin Schlicher
+
+The Defendant Information is:
+ name: Tyron Bach	age: 32	dob: 10/20/74	sex: M	race: B
+
+The Docket Information is:
+charge6105: Y	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Public Def.	mcDocketNum: 83-AT-0200801-2010	mcFileDate: 2/6/10	mcStatus: Held on some charges	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Alvin Schlicher
+
+The Defendant Information is:
+ name: Tyron Bach	age: 32	dob: 10/20/74	sex: M	race: B
+
+The Docket Information is:
+charge6105: Y	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Public Def.	mcDocketNum: 83-AT-0200811-2010	mcFileDate: 2/6/10	mcStatus: Held on some charges	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Vicente Fanelli
+
+The Defendant Information is:
+ name: Fredrick Franzoni	age: 32	dob: 5/9/75	sex: M	race: W
+
+The Docket Information is:
+charge6105: N	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Public Def.	mcDocketNum: 83-AT-0125821-2010	mcFileDate: 1/17/10	mcStatus: Discharged LOP	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Vicente Fanelli
+
+The Defendant Information is:
+ name: Fredrick Franzoni	age: 32	dob: 5/9/75	sex: M	race: W
+
+The Docket Information is:
+charge6105: N	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Public Def.	mcDocketNum: 83-AT-0125831-2010	mcFileDate: 1/17/10	mcStatus: Discharged LOP	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Alvin Schlicher
+
+The Defendant Information is:
+ name: Shane Farago	age: 32	dob: 7/26/75	sex: M	race: W
+
+The Docket Information is:
+charge6105: Y	charge6106: Y	charge6108: Y	charge907: N	bail: Y	Defense Attorney: Horace Deshields	mcDocketNum: 83-AT-0527542-2008	mcFileDate: 1/5/08	mcStatus: Discharged LOP	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Jean Shahan
+
+The Defendant Information is:
+ name: Tyson Rieth	age: 31	dob: 8/9/75	sex: M	race: W
+
+The Docket Information is:
+charge6105: N	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Public Def.	mcDocketNum: 83-AT-0422372-2008	mcFileDate: 2/27/08	mcStatus: Case withdrawn by DA	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Keven Janzen
+
+The Defendant Information is:
+ name: Andra Fishman	age: 31	dob: 4/24/76	sex: M	race: B
+
+The Docket Information is:
+charge6105: Y	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Moshe Broyles	mcDocketNum: 83-AT-0150451-2010	mcFileDate: 1/31/10	mcStatus: Discharged LOE	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Keven Janzen
+
+The Defendant Information is:
+ name: Andra Fishman	age: 31	dob: 4/24/76	sex: M	race: B
+
+The Docket Information is:
+charge6105: N	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Moshe Broyles	mcDocketNum: 83-AT-0150461-2010	mcFileDate: 1/31/10	mcStatus: Discharged LOE	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Carl Mikels
+
+The Defendant Information is:
+ name: Rosario Calabro	age: 30	dob: 7/3/77	sex: M	race: B
+
+The Docket Information is:
+charge6105: Y	charge6106: Y	charge6108: Y	charge907: Y	bail: N	Defense Attorney: Roscoe Merz	mcDocketNum: 83-AT-0119971-2010	mcFileDate: 11/30/10	mcStatus: Held on all charges	verdict: Verdict	jail: Y	sentence: LIFE
+
+The Judge Information mcJudgeName is: Vicente Fanelli
+
+The Defendant Information is:
+ name: Ashton Smullen	age: 29	dob: 9/19/77	sex: M	race: W
+
+The Docket Information is:
+charge6105: N	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Angelo Carrasco	mcDocketNum: 83-AT-0232241-2010	mcFileDate: 2/25/10	mcStatus: Case withdrawn by DA	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Vicente Fanelli
+
+The Defendant Information is:
+ name: Ashton Smullen	age: 29	dob: 9/19/77	sex: M	race: W
+
+The Docket Information is:
+charge6105: N	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Angelo Carrasco	mcDocketNum: 83-AT-0232251-2010	mcFileDate: 2/25/10	mcStatus: Case withdrawn by DA	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Vicente Fanelli
+
+The Defendant Information is:
+ name: Ashton Smullen	age: 29	dob: 9/19/77	sex: M	race: W
+
+The Docket Information is:
+charge6105: N	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Angelo Carrasco	mcDocketNum: 83-AT-0232261-2010	mcFileDate: 2/25/10	mcStatus: Case withdrawn by DA	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Alexander Partin
+
+The Defendant Information is:
+ name: Bradley Langdon	age: 29	dob: 12/6/77	sex: M	race: B
+
+The Docket Information is:
+charge6105: Y	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Public Def.	mcDocketNum: 83-AT-0103551-2010	mcFileDate: 1/3/10	mcStatus: Discharged LOP	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Vicente Fanelli
+
+The Defendant Information is:
+ name: Benjamin Bunnell	age: 29	dob: 12/17/77	sex: M	race: B
+
+The Docket Information is:
+charge6105: Y	charge6106: N	charge6108: N	charge907: Y	bail: Y	Defense Attorney: Public Def.	mcDocketNum: 83-AT-0208661-2010	mcFileDate: 2/10/10	mcStatus: Case withdrawn by DA	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Vicente Fanelli
+
+The Defendant Information is:
+ name: Benjamin Bunnell	age: 29	dob: 12/17/77	sex: M	race: B
+
+The Docket Information is:
+charge6105: Y	charge6106: N	charge6108: N	charge907: Y	bail: Y	Defense Attorney: Public Def.	mcDocketNum: 83-AT-0208651-2010	mcFileDate: 1/13/10	mcStatus: Discharged LOE	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Julian Tober
+
+The Defendant Information is:
+ name: Rolf Pretty	age: 29	dob: 6/29/78	sex: M	race: B
+
+The Docket Information is:
+charge6105: N	charge6106: Y	charge6108: Y	charge907: N	bail: Y	Defense Attorney: Public Def.	mcDocketNum: 83-AT-0202231-2010	mcFileDate: 2/7/10	mcStatus: Held on all charges	verdict: Plea	jail: Y	sentence: 6-23 months
+
+The Judge Information mcJudgeName is: Julian Tober
+
+The Defendant Information is:
+ name: Salvatore Tracy	age: 28	dob: 11/23/78	sex: M	race: B
+
+The Docket Information is:
+charge6105: Y	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Zackary Selvy	mcDocketNum: 83-AT-0112641-2010	mcFileDate: 1/8/10	mcStatus: Held on all charges	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Jean Shahan
+
+The Defendant Information is:
+ name: Matt Turmelle	age: 28	dob: 12/3/78	sex: M	race: B
+
+The Docket Information is:
+charge6105: N	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Public Def.	mcDocketNum: 83-AT-0729792-2007	mcFileDate: 2/27/07	mcStatus: Case withdrawn by DA	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Jeffery Seville
+
+The Defendant Information is:
+ name: Ross Hillin	age: 27	dob: 9/20/79	sex: M	race: B
+
+The Docket Information is:
+charge6105: Y	charge6106: Y	charge6108: Y	charge907: N	bail: Y	Defense Attorney: Fredric Kaplan	mcDocketNum: 83-AT-0113641-2010	mcFileDate: 1/9/10	mcStatus: Held on all charges	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Darnell Poissant
+
+The Defendant Information is:
+ name: Craig Donatelli	age: 26	dob: 8/18/80	sex: M	race: B
+
+The Docket Information is:
+charge6105: Y	charge6106: Y	charge6108: Y	charge907: Y	bail: N	Defense Attorney: Public Def.	mcDocketNum: 83-AT-0204891-2010	mcFileDate: 2/9/10	mcStatus: Case withdrawn by DA	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Julian Tober
+
+The Defendant Information is:
+ name: Ciera Misiewicz	age: 26	dob: 5/18/81	sex: M	race: W
+
+The Docket Information is:
+charge6105: N	charge6106: Y	charge6108: Y	charge907: N	bail: Y	Defense Attorney: Public Def.	mcDocketNum: 83-AT-0220911-2010	mcFileDate: 2/18/10	mcStatus: Case withdrawn by DA	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Ezra Berggren
+
+The Defendant Information is:
+ name: Kyong Comes	age: 25	dob: 9/29/81	sex: M	race: B
+
+The Docket Information is:
+charge6105: Y	charge6106: Y	charge6108: Y	charge907: Y	bail: N	Defense Attorney: Michael Rizer	mcDocketNum: 83-AT-0106841-2010	mcFileDate: 12/29/10	mcStatus: Held on all charges	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Isaiah Lande
+
+The Defendant Information is:
+ name: Kyong Comes	age: 25	dob: 9/29/81	sex: M	race: B
+
+The Docket Information is:
+charge6105: Y	charge6106: Y	charge6108: Y	charge907: Y	bail: N	Defense Attorney: Public Def.	mcDocketNum: 83-AT-0106851-2010	mcFileDate: 12/29/10	mcStatus: Case withdrawn by DA	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Jean Shahan
+
+The Defendant Information is:
+ name: Brendan Rauscher	age: 24	dob: 4/4/83	sex: M	race: W
+
+The Docket Information is:
+charge6105: Y	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Mariano Lasch	mcDocketNum: 83-AT-0129771-2010	mcFileDate: 1/8/10	mcStatus: Case withdrawn by DA	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Jeffery Seville
+
+The Defendant Information is:
+ name: Dione Motyka	age: 22	dob: 2/8/85	sex: M	race: B
+
+The Docket Information is:
+charge6105: N	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Bart Getz	mcDocketNum: 83-AT-0211321-2010	mcFileDate: 2/11/10	mcStatus: Held on some charges	verdict: Plea	jail: Y	sentence: 11.5-23 months
+
+The Judge Information mcJudgeName is: Jeffery Seville
+
+The Defendant Information is:
+ name: Dione Motyka	age: 22	dob: 2/8/85	sex: M	race: B
+
+The Docket Information is:
+charge6105: N	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Bart Getz	mcDocketNum: 83-AT-0211311-2010	mcFileDate: 2/11/10	mcStatus: Discharged LOE	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Jeffery Seville
+
+The Defendant Information is:
+ name: Dione Motyka	age: 22	dob: 2/8/85	sex: M	race: B
+
+The Docket Information is:
+charge6105: N	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Bart Getz	mcDocketNum: 83-AT-0211301-2010	mcFileDate: 2/11/10	mcStatus: Discharged LOE	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Alvin Schlicher
+
+The Defendant Information is:
+ name: Lady Epping	age: 22	dob: 3/4/85	sex: F	race: B
+
+The Docket Information is:
+charge6105: N	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Public Def.	mcDocketNum: 83-AT-0206361-2010	mcFileDate: 1/27/10	mcStatus: Discharged LOP	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Vicente Fanelli
+
+The Defendant Information is:
+ name: Ronny Grogg	age: 21	dob: 9/2/85	sex: M	race: B
+
+The Docket Information is:
+charge6105: Y	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Public Def.	mcDocketNum: 83-AT-0203811-2010	mcFileDate: 1/7/10	mcStatus: Held on all charges	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Isaiah Lande
+
+The Defendant Information is:
+ name: Ronny Grogg	age: 21	dob: 9/2/85	sex: M	race: B
+
+The Docket Information is:
+charge6105: N	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Public Def.	mcDocketNum: 83-AT-0203821-2010	mcFileDate: 1/9/10	mcStatus: Case withdrawn by DA	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Newton Blocker
+
+The Defendant Information is:
+ name: Denny Spies	age: 21	dob: 7/25/86	sex: M	race: B
+
+The Docket Information is:
+charge6105: N	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Orval Peoples	mcDocketNum: 83-AT-0156241-2010	mcFileDate: 2/3/10	mcStatus: Discharged	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Newton Blocker
+
+The Defendant Information is:
+ name: Denny Spies	age: 21	dob: 7/25/86	sex: M	race: B
+
+The Docket Information is:
+charge6105: N	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Orval Peoples	mcDocketNum: 83-AT-0156251-2010	mcFileDate: 2/3/10	mcStatus: Discharged	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Newton Blocker
+
+The Defendant Information is:
+ name: Denny Spies	age: 21	dob: 7/25/86	sex: M	race: B
+
+The Docket Information is:
+charge6105: N	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Orval Peoples	mcDocketNum: 83-AT-0156261-2010	mcFileDate: 2/3/10	mcStatus: Discharged	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Newton Blocker
+
+The Defendant Information is:
+ name: Denny Spies	age: 21	dob: 7/25/86	sex: M	race: B
+
+The Docket Information is:
+charge6105: N	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Orval Peoples	mcDocketNum: 83-AT-0156271-2010	mcFileDate: 2/3/10	mcStatus: Discharged	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Alexander Partin
+
+The Defendant Information is:
+ name: Leandro Wilmeth	age: 20	dob: 12/10/86	sex: M	race: B
+
+The Docket Information is:
+charge6105: N	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Solomon Mendivil	mcDocketNum: 83-AT-0116581-2010	mcFileDate: 12/20/10	mcStatus: Discharged LOP	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Lino Weatherholtz
+
+The Defendant Information is:
+ name: Everett Bono	age: 20	dob: 3/17/87	sex: M	race: B
+
+The Docket Information is:
+charge6105: N	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Efrain Kyles	mcDocketNum: 83-AT-0118161-2010	mcFileDate: 7/15/10	mcStatus: Discharged LOP	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Lino Weatherholtz
+
+The Defendant Information is:
+ name: Everett Bono	age: 20	dob: 3/17/87	sex: M	race: B
+
+The Docket Information is:
+charge6105: N	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Efrain Kyles	mcDocketNum: 83-AT-0118151-2010	mcFileDate: 7/15/10	mcStatus: Discharged LOP	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Isaiah Lande
+
+The Defendant Information is:
+ name: Joshua Mahurin	age: 19	dob: 9/28/87	sex: M	race: B
+
+The Docket Information is:
+charge6105: Y	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Bart Getz	mcDocketNum: 83-AT-0114671-2010	mcFileDate: 9/29/10	mcStatus: Case withdrawn by DA	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Isaiah Lande
+
+The Defendant Information is:
+ name: Joshua Mahurin	age: 19	dob: 9/28/87	sex: M	race: B
+
+The Docket Information is:
+charge6105: Y	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Bart Getz	mcDocketNum: 83-AT-0114681-2010	mcFileDate: 10/12/10	mcStatus: Case withdrawn by DA	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Isaiah Lande
+
+The Defendant Information is:
+ name: Joshua Mahurin	age: 19	dob: 9/29/87	sex: M	race: B
+
+The Docket Information is:
+charge6105: Y	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Bart Getz	mcDocketNum: 83-AT-0114691-2010	mcFileDate: 12/20/10	mcStatus: Case withdrawn by DA	verdict: None	jail: N	sentence: None
+
+The Judge Information mcJudgeName is: Tom
+
+The Defendant Information is:
+ name: Sun	age: 10000000	dob: 0/0/0	sex: U	race: U
+
+The Docket Information is:
+charge6105: Y	charge6106: Y	charge6108: Y	charge907: Y	bail: Y	Defense Attorney: Marlene	mcDocketNum: 45-24GA-452	mcFileDate: 12/13/13	mcStatus: Ongoing	verdict: None	jail: N	sentence: None
+bash-3.2$ exit
+exit
+
+Script done on Sat Dec 14 00:43:43 2013
